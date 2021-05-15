@@ -14,3 +14,8 @@
 ## Button 
  * GND
  * D7
+
+## Soil Sensor 
+ * VCC  -> 5V
+ * GND  -> GND
+ * OUT  -> A0
